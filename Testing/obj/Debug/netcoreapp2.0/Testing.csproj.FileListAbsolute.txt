@@ -1,0 +1,11 @@
+D:\MyCoreProjectEducation\Testing\Testing\bin\Debug\netcoreapp2.0\Testing.deps.json
+D:\MyCoreProjectEducation\Testing\Testing\bin\Debug\netcoreapp2.0\Testing.runtimeconfig.json
+D:\MyCoreProjectEducation\Testing\Testing\bin\Debug\netcoreapp2.0\Testing.runtimeconfig.dev.json
+D:\MyCoreProjectEducation\Testing\Testing\bin\Debug\netcoreapp2.0\Testing.dll
+D:\MyCoreProjectEducation\Testing\Testing\bin\Debug\netcoreapp2.0\Testing.pdb
+D:\MyCoreProjectEducation\Testing\Testing\obj\Debug\netcoreapp2.0\Testing.csprojResolveAssemblyReference.cache
+D:\MyCoreProjectEducation\Testing\Testing\obj\Debug\netcoreapp2.0\Testing.csproj.CoreCompileInputs.cache
+D:\MyCoreProjectEducation\Testing\Testing\obj\Debug\netcoreapp2.0\Testing.AssemblyInfoInputs.cache
+D:\MyCoreProjectEducation\Testing\Testing\obj\Debug\netcoreapp2.0\Testing.AssemblyInfo.cs
+D:\MyCoreProjectEducation\Testing\Testing\obj\Debug\netcoreapp2.0\Testing.dll
+D:\MyCoreProjectEducation\Testing\Testing\obj\Debug\netcoreapp2.0\Testing.pdb
